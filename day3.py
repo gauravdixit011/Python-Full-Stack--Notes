@@ -185,5 +185,3 @@ while password!="admin":
 print("Great You Guess the password ")
 
 
-
-# break and continue keywords
