@@ -36,27 +36,27 @@ They go from **easy → medium practice** so you can improve step-by-step. 🚀
 
 # For Loop Exercises (16–30)
 
-16. Print numbers from **1 to 20**.
-17. Print **even numbers from 1 to 20**.
-18. Print **odd numbers from 1 to 20**.
-19. Print **multiplication table of 5**.
-20. Print numbers **10 to 1 (reverse order)**.
-21. Print each character of the string `"Python"`.
-22. Print the **square of numbers from 1 to 10**.
-23. Print the **cube of numbers from 1 to 10**.
-24. Print numbers divisible by **3 from 1-30**.
-25. Print **sum of numbers 1-50 using for loop**.
-26. Count how many letters are in a word entered by the user.
-27. Print numbers from **1-100 that are divisible by 5**.
-28. Print the **ASCII value** of characters in `"HELLO"`.
-29. Print numbers **1-10 with their squares**.
-30. Print the **first 10 natural numbers using for loop**.
+1. Print numbers from **1 to 20**.
+2. Print **even numbers from 1 to 20**.
+3. Print **odd numbers from 1 to 20**.
+4. Print **multiplication table of 5**.
+5. Print numbers **10 to 1 (reverse order)**.
+6. Print each character of the string `"Python"`.
+7. Print the **square of numbers from 1 to 10**.
+8. Print the **cube of numbers from 1 to 10**.
+9. Print numbers divisible by **3 from 1-30**.
+10. Print **sum of numbers 1-50 using for loop**.
+11. Count how many letters are in a word entered by the user.
+12. Print numbers from **1-100 that are divisible by 5**.
+13. Print the **ASCII value** of characters in `"HELLO"`.
+14. Print numbers **1-10 with their squares**.
+15. Print the **first 10 natural numbers using for loop**.
 
 ---
 
 # Pattern Programs (31–40)
 
-31. Print a **5×5 star square pattern**.
+1. Print a **5×5 star square pattern**.
 
 ```
 * * * * *
@@ -66,7 +66,7 @@ They go from **easy → medium practice** so you can improve step-by-step. 🚀
 * * * * *
 ```
 
-32. Print this pattern
+1. Print this pattern
 
 ```
 *
@@ -76,7 +76,7 @@ They go from **easy → medium practice** so you can improve step-by-step. 🚀
 *****
 ```
 
-33. Print reverse triangle
+1. Print reverse triangle
 
 ```
 *****
@@ -86,17 +86,17 @@ They go from **easy → medium practice** so you can improve step-by-step. 🚀
 *
 ```
 
-34. Print number pattern
+1. Print number pattern
 
 ```
 1
-12
-123
-1234
-12345
+1 2
+1 2 3
+1 2 3 4
+1 2 3 4 5
 ```
 
-35. Print pattern
+1. Print pattern
 
 ```
 1 1 1 1 1
@@ -106,8 +106,8 @@ They go from **easy → medium practice** so you can improve step-by-step. 🚀
 5 5 5 5 5
 ```
 
-36. Print star triangle with spaces.
-37. Print pattern
+1. Print star triangle with spaces.
+2. Print pattern
 
 ```
 A
@@ -116,24 +116,23 @@ CCC
 DDDD
 ```
 
-38. Print hollow square star pattern.
-39. Print pyramid star pattern.
-40. Print reverse number pattern.
+1. Print hollow square star pattern.
+2. Print pyramid star pattern.
+3. Print reverse number pattern.
 
 ---
 
 # While Loop Exercises (41–50)
 
-41. Print numbers **1 to 10 using while loop**.
-42. Print **even numbers from 1-20 using while loop**.
-43. Print **odd numbers from 1-20 using while loop**.
-44. Find **sum of numbers 1-100 using while loop**.
-45. Print **multiplication table of a number using while loop**.
-46. Create a **password guessing program**.
-47. Ask the user to input numbers until they enter **0**.
-48. Create a **number guessing game**.
-49. Find **factorial of a number using while loop**.
-50. Keep asking the user to enter `"yes"` to continue the program.
+1. Print numbers **1 to 10 using while loop**.
+2. Print **even numbers from 1-20 using while loop**.
+3. Print **odd numbers from 1-20 using while loop**.
+4. Find **sum of numbers 1-100 using while loop**.
+5. Print **multiplication table of a number using while loop**.
+6. Create a **password guessing program**.
+7. Ask the user to input numbers until they enter **0**.
+8. Create a **number guessing game**.
+9. Find **factorial of a number using while loop**.
+10. Keep asking the user to enter `"yes"` to continue the program.
 
 ---
-
