@@ -117,11 +117,31 @@ DDDD
 ```
 
 1. Print hollow square star pattern.
+```
+* * * * *
+*       *
+*       *
+*       *
+* * * * * 
+```
 2. Print pyramid star pattern.
+```
+    *
+   * *
+  * * *
+ * * * *
+* * * * *
+```
 3. Print reverse number pattern.
 
 ---
-
+```
+12345
+1234
+123
+12
+1
+```
 # While Loop Exercises (41–50)
 
 1. Print numbers **1 to 10 using while loop**.
@@ -132,7 +152,7 @@ DDDD
 6. Create a **password guessing program**.
 7. Ask the user to input numbers until they enter **0**.
 8. Create a **number guessing game**.
-9. Find **factorial of a number using while loop**.
+9. Find **factorial of a number using while loop**. 5 1*2*3*4*5=120
 10. Keep asking the user to enter `"yes"` to continue the program.
 
 ---
