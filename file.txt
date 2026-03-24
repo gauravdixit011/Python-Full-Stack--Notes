@@ -1,0 +1,2 @@
+Hello Good Morning
+This is a sample text file.
